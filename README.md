@@ -5,4 +5,4 @@ This project was created while I was searching for a new car. I had a variety of
 
 This program allowed me to search the three most popular car sites for cars that I was interested in, both new and used. The algorithm calculated the time left on the warranty based on the mileage and date of the car. It used information based on my personal driving habits to calculate the shorter warranty length between year and mileage for each specific manufacturer. 
 
-After finding eligible vehicles, it formatted the results as an HTML page to include pertinent information as well as links to the actual vehicles. I also created an Android application based on the same code, but have since lost the source files for it. I will upload the .APK if I can find it. However, due to licensing issues, the app cannot be published on the store. 
+After finding eligible vehicles, it formatted the results as an HTML page to include pertinent information as well as links to the actual vehicles. I also created an Android application based on the same code. 
