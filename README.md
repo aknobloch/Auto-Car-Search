@@ -1,5 +1,7 @@
-# Auto-Car-Search
+# CLI Car Finder
 Created : July 2015
+
+This is a command-line implementation of my Car Finder project.
 
 This project was created while I was searching for a new car. I had a variety of personalized and complicated criterias for finding a car, but most notably the price and how long the vehicle had left on it's warranty. 
 
